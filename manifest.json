@@ -1,0 +1,9 @@
+{
+	"id": "ribbon-drawers",
+	"name": "Ribbon Drawers",
+	"version": "1.0.0",
+	"minAppVersion": "1.13.0",
+	"description": "Organise the ribbon into folders.",
+	"author": "brakkk",
+	"isDesktopOnly": true
+}
